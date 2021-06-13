@@ -64,6 +64,64 @@
 |  56   |  Swift    |  [SumofDigitsBetweenTwoNumbers](https://github.com/Dwashi2/swift-SumofDigitsBetweenTwoNumbers)    | ✅         | |
 |  57   |  Swift    |  [FindtheSmallestandBiggestNumbers](https://github.com/Dwashi2/swift-FindtheSmallestandBiggestNumbers)    | ✅         | |
 |  58   |  Swift    |  [Square](https://github.com/Dwashi2/swift-optional)    |         |✅  |
+|  59   |  Swift    |  [for](https://github.com/Dwashi2/swift-for)    |  ✅       |  |
+|  60   |  Swift    |  [SortanArraybytringLength](https://github.com/Dwashi2/SortanArraybytringLength)    |  ✅       |  |
+|  61   |  Swift    |  [SquareAndCubes](https://github.com/Dwashi2/swift-SquareAndCubes)    |  ✅       |  |
+|  62   |  Swift    |  [TypingGame](https://github.com/Dwashi2/swift-TypingGame)    |  ✅       |  |
+|  63   |  Swift    |  [HowManyVowels](https://github.com/Dwashi2/swift-HowManyVowels)    |  ✅       |  |
+|  64   |  Swift    |  [ExistsANumberHigher](https://github.com/Dwashi2/swift-ExistsANumberHigher)    |  ✅       |  |
+|  65   |  Swift    |  [SortNumberInAscendingOrder](https://github.com/Dwashi2/swift-SortNumberInAscendingOrder)    |  ✅       |  |
+|  66   |  Swift    |  [HittingTheJackpot](https://github.com/Dwashi2/swift-HittingTheJackpot)    |  ✅       |  |
+|  67   |  Swift    |  [FactorChain](https://github.com/Dwashi2/swift-FactorChain)    |  ✅       |  |
+|  68   |  Swift    |  [PitoNDecimalPlaces](https://github.com/Dwashi2/swift-PitoNDecimalPlaces)    |  ✅       |  |
+|  69   |  Swift    |  [CapturetheRook](https://github.com/Dwashi2/swift-CapturetheRook)    |  ✅       |  |
+|  70   |  Swift    |  [VowelReplacer](https://github.com/Dwashi2/swift-VowelReplacer)    |  ✅       |  |
+|  71   |  Swift    |  [TotalVolumeofAllBoxes](https://github.com/Dwashi2/swift-TotalVolumeofAllBoxes)    |  ✅       |  |
+|  72   |  Swift    |  [loginGradient](https://github.com/Dwashi2/swift-loginGradient)    |         |  ✅|
+|  73   |  Swift    |  [login-Project](https://github.com/Dwashi2/swift-login-Project)    |         |  ✅|
+|  74   |  Swift    |  [exercises](https://github.com/Dwashi2/swift-exercises)    |   ✅      |  |
+|  75   |  Swift    |  [exercises](https://github.com/Dwashi2/swift-exercises)    |   ✅      |  |
+|  76   |  Swift    |  [project-animated](https://github.com/Dwashi2/swift-project-animated)    |         | ✅  |
+|  77   |  Swift    |  [ReverseTheOrderOfAString](https://github.com/Dwashi2/swift-ReverseTheOrderOfAString)    |    ✅     |   |
+|  78   |  Swift    |  [HurdleJump](https://github.com/Dwashi2/swift-HurdleJump)    |    ✅     |   |
+|  79   |  Swift    |  [checkFactors](https://github.com/Dwashi2/swift-checkFactors)    |    ✅     |   |
+|  80   |  Swift    |  [TransformIntoanArraywithNoDuplicates](https://github.com/Dwashi2/swift-TransformIntoanArraywithNoDuplicates)    |    ✅     |   |
+|  81   |  Swift    |  [PrefixesvsSuffixes](https://github.com/Dwashi2/swift-PrefixesvsSuffixes)    |    ✅     |   |
+|  82   |  Swift    |  [AlgorithmsIntroductiontoRecursion](https://github.com/Dwashi2/swift-AlgorithmsIntroductiontoRecursion)    |    ✅     |   |
+|  83   |  Swift    |  [SomethingintheBox](https://github.com/Dwashi2/swift-SomethingintheBox)    |    ✅     |   |
+|  84   |  Swift    |  [ArrayInsertPosition](https://github.com/Dwashi2/swift-ArrayInsertPosition)    |    ✅     |   |
+|  85   |  Swift    |  [Login](https://github.com/Dwashi2/swift-Login)    |         | ✅  |
+|  86   |  Swift    |  [ReturntheFactorial](https://github.com/Dwashi2/swift-ReturntheFactorial)    |    ✅     |   |
+|  87   |  Swift    |  [Square](https://github.com/Dwashi2/swift-Square)    |    ✅     |   |
+|  88   |  Swift    |  [arrayImage](https://github.com/Dwashi2/arrayImage)    |         |  ✅ |
+|  89   |  Swift    |  [Excercises1](https://github.com/Dwashi2/swift-Excercises1)    |    ✅     |   |
+|  90   |  Swift    |  [Challange1](https://github.com/Dwashi2/swift-Challange1)    |    ✅     |   |
+|  91   |  Swift    |  [array-Image-1](https://github.com/Dwashi2/swift-array-Image-1)    |         |  ✅ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
