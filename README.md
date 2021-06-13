@@ -96,6 +96,7 @@
 |  91   |  Swift    |  [array-Image-1](https://github.com/Dwashi2/swift-array-Image-1)    |         |  ✅ |
 |  92   |  Swift    |  [GettheFileExtension](https://github.com/Dwashi2/swift-GettheFileExtension)    |    ✅     |   |
 |  93   |  Swift    |  [LongestSequenceofConsecutiveZeroes](https://github.com/Dwashi2/swift-LongestSequenceofConsecutiveZeroes)    |    ✅     |   |
+|  94   |  Swift    |  [ChatRoomStatus](https://github.com/Dwashi2/swift-ChatRoomStatus)    |    ✅     |   |
 
 
 
