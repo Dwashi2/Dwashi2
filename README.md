@@ -98,6 +98,7 @@
 |  93   |  Swift    |  [LongestSequenceofConsecutiveZeroes](https://github.com/Dwashi2/swift-LongestSequenceofConsecutiveZeroes)    |    ✅     |   |
 |  94   |  Swift    |  [ChatRoomStatus](https://github.com/Dwashi2/swift-ChatRoomStatus)    |    ✅     |   |
 |  95   |  Swift    |  [BasketballPoints](https://github.com/Dwashi2/swift-BasketballPoints)    |    ✅     |   |
+|  96   |  Swift    |  [TheFarmProblem](https://github.com/Dwashi2/swift-TheFarmProblem)    |    ✅     |   |
 
 
 
