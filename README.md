@@ -100,6 +100,7 @@
 |  95   |  Swift    |  [BasketballPoints](https://github.com/Dwashi2/swift-BasketballPoints)    |    ✅     |   |
 |  96   |  Swift    |  [TheFarmProblem](https://github.com/Dwashi2/swift-TheFarmProblem)    |    ✅     |   |
 |  97   |  Swift    |  [ConcatenatingTwoIntegerArrays](https://github.com/Dwashi2/swift-ConcatenatingTwoIntegerArrays)    |    ✅     |   |
+|  98   |  Swift    |  [ReturntheLastElementinanArray](https://github.com/Dwashi2/swift-ReturntheLastElementinanArray)    |    ✅     |   |
 
 
 
