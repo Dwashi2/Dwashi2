@@ -103,6 +103,7 @@
 |  98   |  Swift    |  [ReturntheLastElementinanArray](https://github.com/Dwashi2/swift-ReturntheLastElementinanArray)    |    ✅     |   |
 |  99   |  Swift    |  [IstheStringEmpty](https://github.com/Dwashi2/swift-IstheStringEmpty)    |    ✅     |   |
 |  100   |  Swift    |  [CountLettersinaWordSearch](https://github.com/Dwashi2/swift-CountLettersinaWordSearch)    |    ✅     |   |
+|  101   |  Swift    |  [ReturninganAddFunction](https://github.com/Dwashi2/swift-ReturninganAddFunction)    |    ✅     |   |
 
 
 
