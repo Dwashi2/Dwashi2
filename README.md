@@ -110,6 +110,7 @@
 |  105   |  Swift    |  [MaskifytheString](https://github.com/Dwashi2/swift-MaskifytheString)    |    ✅     |   |
 |  106   |  Swift    |  [MaximumDifference](https://github.com/Dwashi2/swift-MaximumDifference)    |    ✅     |   |
 |  107   |  Swift    |  [IstheWordSingularorPlural](https://github.com/Dwashi2/swift-IstheWordSingularorPlural)    |    ✅     |   |
+|  108   |  Swift    |  [FindtheIndex](https://github.com/Dwashi2/swift-FindtheIndex)    |    ✅     |   |
 
 
 
