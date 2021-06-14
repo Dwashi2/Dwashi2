@@ -109,6 +109,7 @@
 |  104   |  Swift    |  [InternationalGreetings](https://github.com/Dwashi2/swift-InternationalGreetings)    |    ✅     |   |
 |  105   |  Swift    |  [MaskifytheString](https://github.com/Dwashi2/swift-MaskifytheString)    |    ✅     |   |
 |  106   |  Swift    |  [MaximumDifference](https://github.com/Dwashi2/swift-MaximumDifference)    |    ✅     |   |
+|  107   |  Swift    |  [IstheWordSingularorPlural](https://github.com/Dwashi2/swift-IstheWordSingularorPlural)    |    ✅     |   |
 
 
 
