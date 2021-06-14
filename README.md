@@ -104,6 +104,7 @@
 |  99   |  Swift    |  [IstheStringEmpty](https://github.com/Dwashi2/swift-IstheStringEmpty)    |    ✅     |   |
 |  100   |  Swift    |  [CountLettersinaWordSearch](https://github.com/Dwashi2/swift-CountLettersinaWordSearch)    |    ✅     |   |
 |  101   |  Swift    |  [ReturninganAddFunction](https://github.com/Dwashi2/swift-ReturninganAddFunction)    |    ✅     |   |
+|  102   |  Swift    |  [CheckifanIntegerisDivisibleByFive](https://github.com/Dwashi2/swift-CheckifanIntegerisDivisibleByFive)    |    ✅     |   |
 
 
 
