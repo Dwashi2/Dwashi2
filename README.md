@@ -106,6 +106,7 @@
 |  101   |  Swift    |  [ReturninganAddFunction](https://github.com/Dwashi2/swift-ReturninganAddFunction)    |    ✅     |   |
 |  102   |  Swift    |  [CheckifanIntegerisDivisibleByFive](https://github.com/Dwashi2/swift-CheckifanIntegerisDivisibleByFive)    |    ✅     |   |
 |  103   |  Swift    |  [IsJohnnyMakingProgress](https://github.com/Dwashi2/swift-IsJohnnyMakingProgress)    |    ✅     |   |
+|  104   |  Swift    |  [InternationalGreetings](https://github.com/Dwashi2/swift-InternationalGreetings)    |    ✅     |   |
 
 
 
