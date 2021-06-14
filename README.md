@@ -111,6 +111,7 @@
 |  106   |  Swift    |  [MaximumDifference](https://github.com/Dwashi2/swift-MaximumDifference)    |    ✅     |   |
 |  107   |  Swift    |  [IstheWordSingularorPlural](https://github.com/Dwashi2/swift-IstheWordSingularorPlural)    |    ✅     |   |
 |  108   |  Swift    |  [FindtheIndex](https://github.com/Dwashi2/swift-FindtheIndex)    |    ✅     |   |
+|  109   |  Swift    |  [GetWordCount](https://github.com/Dwashi2/swift-GetWordCount/tree/main)    |    ✅     |   |
 
 
 
