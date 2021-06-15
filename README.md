@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Dwashi2
 - 👀 Check out some stuff that i did using swift
+- 📚 Exercises, just need the Xcode
 
 | Number |  Language |  Description| Exercise | Project |
 | ------ | ------- | ------------- | -------- | ------- |
