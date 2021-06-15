@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Dwashi2
 - 👀 Check out some stuff that i did using swift
 - 📚 Exercises, just need the Xcode
+- 📱 Project, has an interface, so the simulator is needed
 
 | Number |  Language |  Description| Exercise | Project |
 | ------ | ------- | ------------- | -------- | ------- |
