@@ -117,6 +117,7 @@
 |  110   |  Swift    |  [CountSyllables](https://github.com/Dwashi2/swift-CountSyllables)    |    ✅     |   |
 |  111   |  Swift    |  [BetweenWords](https://github.com/Dwashi2/swift-BetweenWords)    |    ✅     |   |
 |  112   |  Swift    |  [IstheStringaPalindrome](https://github.com/Dwashi2/swift-IstheStringaPalindrome)    |    ✅     |   |
+|  113   |  Swift    |  [TableView-Class](https://github.com/Dwashi2/swift-TableView-Class)    |         | ✅  |
 
 
 
