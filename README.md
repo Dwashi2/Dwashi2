@@ -120,6 +120,7 @@
 |  113   |  Swift    |  [TableView-Class](https://github.com/Dwashi2/swift-TableView-Class)    |         | ✅  |
 |  114   |  Swift    |  [LessThan100](https://github.com/Dwashi2/swift-LessThan100)    |   ✅  |   |
 |  115   |  Swift    |  [ReturntheNextNumberfromtheIntegerPassed](https://github.com/Dwashi2/swift-ReturntheNextNumberfromtheIntegerPassed)    |   ✅  |   |
+|  116   |  Swift    |  [ConcatenateFirstandLastNameintoOneString](https://github.com/Dwashi2/swift-ConcatenateFirstandLastNameintoOneString)    |   ✅  |   |
 
 
 
