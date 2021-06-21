@@ -121,7 +121,8 @@
 |  114   |  Swift    |  [LessThan100](https://github.com/Dwashi2/swift-LessThan100)    |   ✅  |   |
 |  115   |  Swift    |  [ReturntheNextNumberfromtheIntegerPassed](https://github.com/Dwashi2/swift-ReturntheNextNumberfromtheIntegerPassed)    |   ✅  |   |
 |  116   |  Swift    |  [ConcatenateFirstandLastNameintoOneString](https://github.com/Dwashi2/swift-ConcatenateFirstandLastNameintoOneString)    |   ✅  |   |
-|  116   |  Swift    |  [ReversetheOrderofWordswithFiveLettersorMore](https://github.com/Dwashi2/swift-ReversetheOrderofWordswithFiveLettersorMore)    |   ✅  |   |
+|  117   |  Swift    |  [ReversetheOrderofWordswithFiveLettersorMore](https://github.com/Dwashi2/swift-ReversetheOrderofWordswithFiveLettersorMore)    |   ✅  |
+|  118   |  Swift    |  [MovingtotheEnd](https://github.com/Dwashi2/swift-MovingtotheEnd)    |   ✅  | 
 
 
 
