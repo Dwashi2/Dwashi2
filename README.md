@@ -125,6 +125,7 @@
 |  118   |  Swift    |  [MovingtotheEnd](https://github.com/Dwashi2/swift-MovingtotheEnd)    |   ✅  | 
 |  119   |  Swift    |  [SortNumbersinDescendingOrder](https://github.com/Dwashi2/swift-SortNumbersinDescendingOrder)    |   ✅  | 
 |  120   |  Swift    |  [CalculatetheMedian](https://github.com/Dwashi2/swift-CalculatetheMedian)    |   ✅  | 
+|  121   |  Swift    |  [AlTeRnAtInGcApS](https://github.com/Dwashi2/swift-AlTeRnAtInGcApS)    |   ✅  | 
 
 
 
