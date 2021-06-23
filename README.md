@@ -127,6 +127,7 @@
 |  120   |  Swift    |  [CalculatetheMedian](https://github.com/Dwashi2/swift-CalculatetheMedian)    |   ✅  | |
 |  121   |  Swift    |  [AlTeRnAtInGcApS](https://github.com/Dwashi2/swift-AlTeRnAtInGcApS)    |   ✅  | |
 |  122   |  Swift    |  [PositiveCountNegativeSum](https://github.com/Dwashi2/swift-PositiveCountNegativeSum)    |   ✅  | |
+|  123   |  Swift    |  [ScoringSystem](https://github.com/Dwashi2/swift-ScoringSystem)    |   ✅  | |
 
 
 
