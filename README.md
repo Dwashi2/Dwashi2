@@ -130,6 +130,7 @@
 |  123   |  Swift    |  [ScoringSystem](https://github.com/Dwashi2/swift-ScoringSystem)    |   ✅  | |
 |  124   |  Swift    |  [ReversetheCase](https://github.com/Dwashi2/swift-ReversetheCase)    |   ✅  | |
 |  125   |  Swift    |  [GrabtheCity](https://github.com/Dwashi2/swift-GrabtheCity)    |   ✅  | |
+|  126   |  Swift    |  [ArrayofMultiples](https://github.com/Dwashi2/swift-ArrayofMultiples)    |   ✅  | |
 
 
 
