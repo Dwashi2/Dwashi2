@@ -129,6 +129,7 @@
 |  122   |  Swift    |  [PositiveCountNegativeSum](https://github.com/Dwashi2/swift-PositiveCountNegativeSum)    |   ✅  | |
 |  123   |  Swift    |  [ScoringSystem](https://github.com/Dwashi2/swift-ScoringSystem)    |   ✅  | |
 |  124   |  Swift    |  [ReversetheCase](https://github.com/Dwashi2/swift-ReversetheCase)    |   ✅  | |
+|  125   |  Swift    |  [GrabtheCity](https://github.com/Dwashi2/swift-GrabtheCity)    |   ✅  | |
 
 
 
