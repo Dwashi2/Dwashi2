@@ -135,6 +135,7 @@
 |  128   |  Swift    |  [ReturntheHighestandLowestNumbers](https://github.com/Dwashi2/swift-ReturntheHighestandLowestNumbers)    |   ✅  | |
 |  129   |  Swift    |  [FilteroutStringsfromanArray](https://github.com/Dwashi2/swift-FilteroutStringsfromanArray)    |   ✅  | |
 |  130   |  Swift    |  [HashesandPluses](https://github.com/Dwashi2/swift-HashesandPluses)    |   ✅  | |
+|  131   |  Swift    |  [Combinations](https://github.com/Dwashi2/swift-Combinations)    |   ✅  | |
 
 
 
