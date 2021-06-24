@@ -133,6 +133,7 @@
 |  126   |  Swift    |  [ArrayofMultiples](https://github.com/Dwashi2/swift-ArrayofMultiples)    |   ✅  | |
 |  127   |  Swift    |  [CountingAdverbs](https://github.com/Dwashi2/swift-CountingAdverbs)    |   ✅  | |
 |  128   |  Swift    |  [ReturntheHighestandLowestNumbers](https://github.com/Dwashi2/swift-ReturntheHighestandLowestNumbers)    |   ✅  | |
+|  129   |  Swift    |  [FilteroutStringsfromanArray](https://github.com/Dwashi2/swift-FilteroutStringsfromanArray)    |   ✅  | |
 
 
 
