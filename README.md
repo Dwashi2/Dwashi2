@@ -132,6 +132,7 @@
 |  125   |  Swift    |  [GrabtheCity](https://github.com/Dwashi2/swift-GrabtheCity)    |   ✅  | |
 |  126   |  Swift    |  [ArrayofMultiples](https://github.com/Dwashi2/swift-ArrayofMultiples)    |   ✅  | |
 |  127   |  Swift    |  [CountingAdverbs](https://github.com/Dwashi2/swift-CountingAdverbs)    |   ✅  | |
+|  128   |  Swift    |  [ReturntheHighestandLowestNumbers](https://github.com/Dwashi2/swift-ReturntheHighestandLowestNumbers)    |   ✅  | |
 
 
 
