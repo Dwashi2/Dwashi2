@@ -136,6 +136,7 @@
 |  129   |  Swift    |  [FilteroutStringsfromanArray](https://github.com/Dwashi2/swift-FilteroutStringsfromanArray)    |   ✅  | |
 |  130   |  Swift    |  [HashesandPluses](https://github.com/Dwashi2/swift-HashesandPluses)    |   ✅  | |
 |  131   |  Swift    |  [Combinations](https://github.com/Dwashi2/swift-Combinations)    |   ✅  | |
+|  132   |  Swift    |  [FindtheShortestWordsinaSentence](https://github.com/Dwashi2/swift-FindtheShortestWordsinaSentence)    |   ✅  | |
 
 
 
