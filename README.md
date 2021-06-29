@@ -139,6 +139,7 @@
 |  132   |  Swift    |  [FindtheShortestWordsinaSentence](https://github.com/Dwashi2/swift-FindtheShortestWordsinaSentence)    |   ✅  | |
 |  133   |  Swift    |  [FixtheExpression](https://github.com/Dwashi2/swift-FixtheExpression)    |   ✅  | |
 |  134   |  Swift    |  [MergeTwoArrays](https://github.com/Dwashi2/swift-MergeTwoArrays)    |   ✅  | |
+|  135   |  Swift    |  [CapitalizetheFirstLetterofEachWord](https://github.com/Dwashi2/swift-CapitalizetheFirstLetterofEachWord)    |   ✅  | |
 
 
 
