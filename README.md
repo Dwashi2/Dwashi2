@@ -121,7 +121,7 @@
 |  114   |  Swift    |  [LessThan100](https://github.com/Dwashi2/swift-LessThan100)    |   ✅  |   |
 |  115   |  Swift    |  [ReturntheNextNumberfromtheIntegerPassed](https://github.com/Dwashi2/swift-ReturntheNextNumberfromtheIntegerPassed)    |   ✅  |   |
 |  116   |  Swift    |  [ConcatenateFirstandLastNameintoOneString](https://github.com/Dwashi2/swift-ConcatenateFirstandLastNameintoOneString)    |   ✅  |   |
-|  117   |  Swift    |  [ReversetheOrderofWordswithFiveLettersorMore](https://github.com/Dwashi2/swift-ReversetheOrderofWordswithFiveLettersorMore)    |   ✅  | |
+|  117   |  Swift    |  [ReversetheOrderofWordswithFiveLettersorMore](https://github.com/Dwashi2/swift-ReversetheOrderofWordswithFiveLettersorMore)    |   ✅ | ||
 |  118   |  Swift    |  [MovingtotheEnd](https://github.com/Dwashi2/swift-MovingtotheEnd)    |   ✅  | |
 |  119   |  Swift    |  [SortNumbersinDescendingOrder](https://github.com/Dwashi2/swift-SortNumbersinDescendingOrder)    |   ✅  | |
 |  120   |  Swift    |  [CalculatetheMedian](https://github.com/Dwashi2/swift-CalculatetheMedian)    |   ✅  | |
@@ -138,6 +138,7 @@
 |  131   |  Swift    |  [Combinations](https://github.com/Dwashi2/swift-Combinations)    |   ✅  | |
 |  132   |  Swift    |  [FindtheShortestWordsinaSentence](https://github.com/Dwashi2/swift-FindtheShortestWordsinaSentence)    |   ✅  | |
 |  133   |  Swift    |  [FixtheExpression](https://github.com/Dwashi2/swift-FixtheExpression)    |   ✅  | |
+|  134   |  Swift    |  [MergeTwoArrays](https://github.com/Dwashi2/swift-MergeTwoArrays)    |   ✅  | |
 
 
 
