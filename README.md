@@ -5,7 +5,7 @@
 
 | Number |  Language |  Description| Exercise | Project |
 | ------ | ------- | ------------- | -------- | ------- |
-|   1    | Swift   |   [ReplacingLetterswithHashes](https://github.com/Dwashi2/swift-ReplacingLetterswithHashes)    |   ✅      | |
+|   1    | Swift   |   [CapitalizetheFirstLetterofEachWord](https://github.com/Dwashi2/swift-CapitalizetheFirstLetterofEachWord)    |   ✅      | |
 |  2     | Swift   |    [TransformingWordsIntoBinaryStrings](https://github.com/Dwashi2/swift-TransformingWordsIntoBinaryStrings)  | ✅ | |
 |  3   | Swift    |  [H4ck3rSp34k](https://github.com/Dwashi2/swift-H4ck3rSp34k)     |       ✅   ||
 |  4   |  Swift  |   [StateNamesandAbbreviations](https://github.com/Dwashi2/swift-StateNamesandAbbreviations)     |   ✅       | |
@@ -139,7 +139,6 @@
 |  132   |  Swift    |  [FindtheShortestWordsinaSentence](https://github.com/Dwashi2/swift-FindtheShortestWordsinaSentence)    |   ✅  | |
 |  133   |  Swift    |  [FixtheExpression](https://github.com/Dwashi2/swift-FixtheExpression)    |   ✅  | |
 |  134   |  Swift    |  [MergeTwoArrays](https://github.com/Dwashi2/swift-MergeTwoArrays)    |   ✅  | |
-|  135   |  Swift    |  [CapitalizetheFirstLetterofEachWord](https://github.com/Dwashi2/swift-CapitalizetheFirstLetterofEachWord)    |   ✅  | |
 
 
 
