@@ -143,6 +143,7 @@
 |  136   |  Swift    |  [PartiallyHiddenString](https://github.com/Dwashi2/swift-PartiallyHiddenString)    |   ✅  | |
 |  137   |  Swift    |  [FindtheMissingLetter](https://github.com/Dwashi2/swift-FindtheMissingLetter)    |   ✅  | |
 |  138   |  Swift    |  [DigitDistance](https://github.com/Dwashi2/swift-DigitDistance)    |   ✅  | |
+|  139   |  Swift    |  [DoAllBigramsExist](https://github.com/Dwashi2/swift-DoAllBigramsExist)    |   ✅  | |
 
 
 
