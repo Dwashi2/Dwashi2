@@ -141,6 +141,7 @@
 |  134   |  Swift    |  [MergeTwoArrays](https://github.com/Dwashi2/swift-MergeTwoArrays)    |   ✅  | |
 |  135   |  Swift    |  [ReplacingLetterswithHashes](https://github.com/Dwashi2/swift-ReplacingLetterswithHashes)    |   ✅  | |
 |  136   |  Swift    |  [PartiallyHiddenString](https://github.com/Dwashi2/swift-PartiallyHiddenString)    |   ✅  | |
+|  137   |  Swift    |  [FindtheMissingLetter](https://github.com/Dwashi2/swift-FindtheMissingLetter)    |   ✅  | |
 
 
 
