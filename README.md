@@ -144,7 +144,7 @@
 |  137   |  Swift    |  [FindtheMissingLetter](https://github.com/Dwashi2/swift-FindtheMissingLetter)    |   ✅  | |
 |  138   |  Swift    |  [DigitDistance](https://github.com/Dwashi2/swift-DigitDistance)    |   ✅  | |
 |  139   |  Swift    |  [DoAllBigramsExist](https://github.com/Dwashi2/swift-DoAllBigramsExist)    |   ✅  | |
-|  140   |  Swift    |  [TableView](https://github.com/Dwashi2/swift-TableView)    |   ✅  | |
+|  140   |  Swift    |  [TableView](https://github.com/Dwashi2/swift-TableView)    |     | ✅ |
 
 
 
