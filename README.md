@@ -146,6 +146,7 @@
 |  139   |  Swift    |  [DoAllBigramsExist](https://github.com/Dwashi2/swift-DoAllBigramsExist)    |   ✅  | |
 |  140   |  Swift    |  [TableView](https://github.com/Dwashi2/swift-TableView)    |     | ✅ |
 |  141   |  Swift    |  [TableViewAndCell](https://github.com/Dwashi2/swift-TableViewAndCell)    |     | ✅ |
+|  142   |  Swift    |  [YuYuHakushoCharacters](https://github.com/Dwashi2/swift-YuYuHakushoCharacters)    |     | ✅ |
 
 
 
