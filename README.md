@@ -148,6 +148,7 @@
 |  141   |  Swift    |  [TableViewAndCell](https://github.com/Dwashi2/swift-TableViewAndCell)    |     | ✅ |
 |  142   |  Swift    |  [YuYuHakushoCharacters](https://github.com/Dwashi2/swift-YuYuHakushoCharacters)    |     | ✅ |
 |  143   |  Swift    |  [pokedex](https://github.com/Dwashi2/swift-pokedex)    |     | ✅ |
+|  144   |  Swift    |  [perfil](https://github.com/Dwashi2/swift-perfil)    |     | ✅ |
 
 
 
