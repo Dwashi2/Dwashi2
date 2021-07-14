@@ -149,6 +149,7 @@
 |  142   |  Swift    |  [YuYuHakushoCharacters](https://github.com/Dwashi2/swift-YuYuHakushoCharacters)    |     | ✅ |
 |  143   |  Swift    |  [pokedex](https://github.com/Dwashi2/swift-pokedex)    |     | ✅ |
 |  144   |  Swift    |  [perfil](https://github.com/Dwashi2/swift-perfil)    |     | ✅ |
+|  145   |  Swift    |  [NavigationControllerStudy](https://github.com/Dwashi2/swift-NavigationControllerStudy)    |     | ✅ |
 
 
 
