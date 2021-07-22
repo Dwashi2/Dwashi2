@@ -155,7 +155,8 @@
 |  148   |  Swift    |  [PickerView](https://github.com/Dwashi2/swift-PickerView)    |     | ✅ |
 |  149   |  Swift    |  [LittleDictionaryMap](https://github.com/Dwashi2/swift-LittleDictionaryMap)    |  ✅  |  |
 |  150   |  Swift    |  [LittleDictionaryFilter](https://github.com/Dwashi2/swift-LittleDictionaryFilter)    |  ✅  |  |
-|  150   |  Swift    |  [LittleDictionaryReducer](https://github.com/Dwashi2/swift-LittleDictionaryReducer)    |  ✅  |  |
+|  151   |  Swift    |  [LittleDictionaryReducer](https://github.com/Dwashi2/swift-LittleDictionaryReducer)    |  ✅  |  |
+|  152   |  Swift    |  [optionalStudy](https://github.com/Dwashi2/swift-optionalStudy)    |  ✅  |  |
 
 
 
