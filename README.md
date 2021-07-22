@@ -62,7 +62,7 @@
 |  55   |  Swift    |  [ReturntheMiddleCharactersofaString](https://github.com/Dwashi2/swift-ReturntheMiddleCharactersofaString)    | ✅         | |
 |  56   |  Swift    |  [SumofDigitsBetweenTwoNumbers](https://github.com/Dwashi2/swift-SumofDigitsBetweenTwoNumbers)    | ✅         | |
 |  57   |  Swift    |  [FindtheSmallestandBiggestNumbers](https://github.com/Dwashi2/swift-FindtheSmallestandBiggestNumbers)    | ✅         | |
-|  58   |  Swift    |  [Square](https://github.com/Dwashi2/swift-optional)    |         |✅  |
+|  58   |  Swift    |  [optional](https://github.com/Dwashi2/swift-optional)    |         |✅  |
 |  59   |  Swift    |  [for](https://github.com/Dwashi2/swift-for)    |  ✅       |  |
 |  60   |  Swift    |  [SortanArraybytringLength](https://github.com/Dwashi2/SortanArraybytringLength)    |  ✅       |  |
 |  61   |  Swift    |  [SquareAndCubes](https://github.com/Dwashi2/swift-SquareAndCubes)    |  ✅       |  |
