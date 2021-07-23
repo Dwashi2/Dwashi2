@@ -157,6 +157,7 @@
 |  150   |  Swift    |  [LittleDictionaryFilter](https://github.com/Dwashi2/swift-LittleDictionaryFilter)    |  ✅  |  |
 |  151   |  Swift    |  [LittleDictionaryReducer](https://github.com/Dwashi2/swift-LittleDictionaryReducer)    |  ✅  |  |
 |  152   |  Swift    |  [optionalStudy](https://github.com/Dwashi2/swift-optionalStudy)    |  ✅  |  |
+|  153   |  Swift    |  [CombinationsReducer](https://github.com/Dwashi2/swift-CombinationsReducer)    |  ✅  |  |
 
 
 
