@@ -159,6 +159,7 @@
 |  152   |  Swift    |  [optionalStudy](https://github.com/Dwashi2/swift-optionalStudy)    |  ✅  |  |
 |  153   |  Swift    |  [CombinationsReducer](https://github.com/Dwashi2/swift-CombinationsReducer)    |  ✅  |  |
 |  154   |  Swift    |  [CalculatetheMeanReduce](https://github.com/Dwashi2/swift-CalculatetheMeanReduce)    |  ✅  |  |
+|  155   |  Swift    |  [FilteroutStringsfromanArrayFilter](https://github.com/Dwashi2/swift-FilteroutStringsfromanArrayFilter)    |  ✅  |  |
 
 
 
