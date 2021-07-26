@@ -160,6 +160,7 @@
 |  153   |  Swift    |  [CombinationsReducer](https://github.com/Dwashi2/swift-CombinationsReducer)    |  ✅  |  |
 |  154   |  Swift    |  [CalculatetheMeanReduce](https://github.com/Dwashi2/swift-CalculatetheMeanReduce)    |  ✅  |  |
 |  155   |  Swift    |  [FilteroutStringsfromanArrayFilter](https://github.com/Dwashi2/swift-FilteroutStringsfromanArrayFilter)    |  ✅  |  |
+|  156   |  Swift    |  [FilteroutStringsfromanArrayMap](https://github.com/Dwashi2/swift-FilteroutStringsfromanArrayMap)    |  ✅  |  |
 
 
 
