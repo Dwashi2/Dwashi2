@@ -161,7 +161,7 @@
 |  154   |  Swift    |  [CalculatetheMeanReduce](https://github.com/Dwashi2/swift-CalculatetheMeanReduce)    |  ✅  |  |
 |  155   |  Swift    |  [FilteroutStringsfromanArrayFilter](https://github.com/Dwashi2/swift-FilteroutStringsfromanArrayFilter)    |  ✅  |  |
 |  156   |  Swift    |  [FilteroutStringsfromanArrayMap](https://github.com/Dwashi2/swift-FilteroutStringsfromanArrayMap)    |  ✅  |  |
-|  157   |  Swift    |  [pokedexMVC](https://github.com/Dwashi2/swift-pokedexMVC)    |  ✅  |  |
+|  157   |  Swift    |  [pokedexMVC](https://github.com/Dwashi2/swift-pokedexMVC)    |    | ✅ |
 
 
 
