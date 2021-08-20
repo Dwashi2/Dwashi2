@@ -1,6 +1,9 @@
 <div align="center">
   <img align="center"  alt="Facebook" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/69673_b7qXnpoc.png"
     style="max-width:100%;">
+  <img align="center"  alt="Facebook" height="50" width="50" src="https://share-cdn.picrew.me/shareImg/org/202108/254030_klUtQNO1.png"
+    style="max-width:100%;">
+  
  </div>
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
 
