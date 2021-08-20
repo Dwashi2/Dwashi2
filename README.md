@@ -5,6 +5,11 @@
   <img align="center" href="https://www.instagram.com/casadochicobolinho/" alt="Chico Bolinho" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/254030_BG705136.png"
     style="max-width:100%;"></a>
  </div>
+ <div align="center" >
+  <img align="center" href="https://www.instagram.com/casadochicobolinho/" alt="Facebook" height="70" width="90" src="https://img.shields.io/badge/Instagram-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+    style="max-width:100%;">
+  
+ </div>
    
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
 
