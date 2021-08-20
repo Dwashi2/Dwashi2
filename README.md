@@ -3,8 +3,9 @@
     style="max-width:100%;">
   <img align="center"  alt="Chico Bolinho" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/254030_BG705136.png"
     style="max-width:100%;">
-    chico
+  
  </div>
+   chico
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
 
 
