@@ -19,6 +19,8 @@
     style="max-width:100%;">
   - <img align="center" href="https://www.facebook.com/danielwashington.ignacio" alt="Facebook" height="70" width="90" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
     style="max-width:100%;">
+ <img align="center"  alt="Facebook" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/69673_b7qXnpoc.png"
+    style="max-width:100%;">
 </div>
 
 ---
