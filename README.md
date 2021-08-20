@@ -3,6 +3,16 @@
 - 📚 Exercises, just need the Xcode
 - 📱 Project, has an interface, so the simulator is needed
 
+
+
+<div>
+  <a href="https://github.com/Dwashi2"> 
+    <img height="180em" src="https://github-readme-stats-vercel-api/api?username=Dwashi2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+        
+</div>
+
+
+
 | Number |  Language |  Description| Exercise | Project |
 | ------ | ------- | ------------- | -------- | ------- |
 |   1    | Swift   |   [CapitalizetheFirstLetterofEachWord](https://github.com/Dwashi2/swift-CapitalizetheFirstLetterofEachWord)    |   ✅      | |
