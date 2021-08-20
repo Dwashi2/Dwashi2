@@ -14,6 +14,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dwashi2&repo=github-readme-stats" />
 </a>
 
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 | Number |  Language |  Description| Exercise | Project |
