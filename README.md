@@ -3,7 +3,7 @@
 - 📚 Exercises, just need the Xcode
 - 📱 Project, has an interface, so the simulator is needed
 
-
+---
 
 <div>
   <a href="https://github.com/dwashi2"> 
