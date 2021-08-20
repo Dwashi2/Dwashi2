@@ -8,8 +8,11 @@
 <div>
   <a href="https://github.com/Dwashi2"> 
     <img height="180em" src="https://github-readme-stats-vercel-api/api?username=Dwashi2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-        
 </div>
+    
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dwashi2&repo=github-readme-stats" />
+</a>
 
 
 
