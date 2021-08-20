@@ -1,8 +1,5 @@
 
-<div style="display: inline_block"><br>
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
- <img align="center" alt="React" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/69673_b7qXnpoc.png" style="max-width:100%;">
-</div>
 
 
 <div>
