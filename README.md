@@ -5,10 +5,12 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dwashi2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
  
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwashi2&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
- 
- 
 </div>
 
+<div style="display: inline_block"><br>
+   <img aling="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+
+</div>
 ---
 
 - 👀 Check out some stuff that i did using swift
