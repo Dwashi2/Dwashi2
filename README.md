@@ -1,8 +1,4 @@
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
-- 👀 Check out some stuff that i did using swift
-- 📚 Exercises, just need the Xcode
-- 📱 Project, has an interface, so the simulator is needed
-
 ---
 
 <div>
@@ -12,6 +8,9 @@
 
 ---
 
+- 👀 Check out some stuff that i did using swift
+- 📚 Exercises, just need the Xcode
+- 📱 Project, has an interface, so the simulator is needed
 
 | Number |  Language |  Description| Exercise | Project |
 | ------ | ------- | ------------- | -------- | ------- |
