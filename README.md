@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center"  alt="" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/69673_b7qXnpoc.png"
     style="max-width:100%;">
-  <img align="center"  alt="Chico Bolinho" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202108/254030_BG705136.png"
+  <img align="center"  alt="Chico Bolinho" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/254030_BG705136.png"
     style="max-width:100%;">
   
  </div>
