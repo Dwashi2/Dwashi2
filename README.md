@@ -19,8 +19,11 @@
     style="max-width:100%;">
 </div>
 
-
 ---
+
+<div>
+ <img align="center" alt="React" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/69673_b7qXnpoc.png" style="max-width:100%;">
+</div>
 
 - 👀 Check out some stuff that i did using swift
 - 📚 Exercises, just need the Xcode
