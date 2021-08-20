@@ -13,8 +13,8 @@
  -  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;">
  - <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width:100%;">
 </div>
-## 
-<div style="display: inline_block">
+
+## <div style="display: inline_block">
   <img align="center" href="https://www.linkedin.com/in/daniel-washington-ignacio-ab439b164/" alt="LinkedIn" height="70" width="90" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;">
  -  <img align="center" href="https://www.facebook.com/danielwashington.ignacio" alt="Facebook" height="30" width="40" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
     style="max-width:100%;">
