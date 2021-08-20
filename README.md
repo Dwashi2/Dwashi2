@@ -1,8 +1,8 @@
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
 
 <div>
-  <a href="https://github.com/dwashi2" > 
-    <img height="180em" src="" />
+ <a href="https://github.com/dwashi2" ></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=Dwashi2&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
 </div>
 
 ---
