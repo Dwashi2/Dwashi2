@@ -205,6 +205,7 @@
 |  156   |  Swift    |  [FilteroutStringsfromanArrayMap](https://github.com/Dwashi2/swift-FilteroutStringsfromanArrayMap)    |  ✅  |  |
 |  157   |  Swift    |  [pokedexMVC](https://github.com/Dwashi2/swift-pokedexMVC)    |    | ✅ |
 |  158   |  Swift    |  [roletaRussa](https://github.com/Dwashi2/swift-roletaRussa)    |    | ✅ |
+|  159   |  Swift    |  [covid-swift](https://github.com/Dwashi2/covid-swift)    |    | ✅ |
 
 
 
