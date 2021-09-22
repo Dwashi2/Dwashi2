@@ -206,6 +206,7 @@
 |  157   |  Swift    |  [pokedexMVC](https://github.com/Dwashi2/swift-pokedexMVC)    |    | ✅ |
 |  158   |  Swift    |  [roletaRussa](https://github.com/Dwashi2/swift-roletaRussa)    |    | ✅ |
 |  159   |  Swift    |  [covid-swift](https://github.com/Dwashi2/covid-swift)    |    | ✅ |
+|  160   |  Swift    |  [movieApp-swift](https://github.com/Dwashi2/movieApp-swift)    |    | ✅ |
 
 
 
