@@ -1,7 +1,5 @@
 <div align="center" style="display: inline_block">
-  <a href="https://www.instagram.com/casadochicobolinho/">
-  <img align="center" href="https://www.instagram.com/casadochicobolinho/" alt="Chico Bolinho" height="100" width="100" src="https://share-cdn.picrew.me/shareImg/org/202108/254030_BG705136.png"
-    style="max-width:100%;"></a>
+ 
  </div>
  <div align="center" >
   <a href="https://www.instagram.com/casadochicobolinho/">
