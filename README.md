@@ -208,6 +208,7 @@
 |  163   |  Swift    |  [TDD-Test](https://github.com/Dwashi2/TDD-Test)    |  ✅  |  |
 |  164   |  Swift    |  [TDD-testNetwork](https://github.com/Dwashi2/TDD-testNetwork)    |  ✅  |  |
 |  165   |  SwiftUI  |  [HikeUI](https://github.com/Dwashi2/HikeUI)    |   | ✅ |
+|  166   |  SwiftUI  |  [RestartUI]((https://github.com/Dwashi2/RestartUI))    |   | ✅ |
 
 
 
