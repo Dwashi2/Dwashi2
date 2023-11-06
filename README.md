@@ -210,6 +210,7 @@
 |  165   |  SwiftUI  |  [HikeUI](https://github.com/Dwashi2/HikeUI)    |   | ✅ |
 |  166   |  SwiftUI  |  [RestartUI](https://github.com/Dwashi2/RestartUI)    |   | ✅ |
 |  167   |  SwiftUI  |  [PinchUI](https://github.com/Dwashi2/PinchUI)    |   | ✅ |
+|  168   |  SwiftUI  |  [FructusUI](https://github.com/Dwashi2/FructusUI)    |   | ✅ |
 
 
 
