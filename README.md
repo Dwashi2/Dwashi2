@@ -211,6 +211,7 @@
 |  166   |  SwiftUI  |  [RestartUI](https://github.com/Dwashi2/RestartUI)    |   | ✅ |
 |  167   |  SwiftUI  |  [PinchUI](https://github.com/Dwashi2/PinchUI)    |   | ✅ |
 |  168   |  SwiftUI  |  [FructusUI](https://github.com/Dwashi2/FructusUI)    |   | ✅ |
+|  169   |  Swift  |  [BrasilApi][(https://github.com/Dwashi2/BrasilApi)    | ✅ |  |
 
 
 
