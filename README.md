@@ -212,7 +212,7 @@
 |  167   |  SwiftUI  |  [PinchUI](https://github.com/Dwashi2/PinchUI)    |   | ✅ |
 |  168   |  SwiftUI  |  [FructusUI](https://github.com/Dwashi2/FructusUI)    |   | ✅ |
 |  169   |  Swift  |  [BrasilApi](https://github.com/Dwashi2/BrasilApi)    | ✅ |  |
-
+|  170   |  SwiftUI  |  [AfricaUI](https://github.com/Dwashi2/AfricaUI)    |   | ✅ |
 
 
 
