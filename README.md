@@ -214,6 +214,7 @@
 |  169   |  Swift  |  [BrasilApi](https://github.com/Dwashi2/BrasilApi)    | ✅ |  |
 |  170   |  SwiftUI  |  [AfricaUI](https://github.com/Dwashi2/AfricaUI)    |   | ✅ |
 |  171   |  SwiftUI  |  [TouchdownUI](https://github.com/Dwashi2/TouchdownUI)    |   | ✅ |
+|  172   |  SwiftUI  |  [DevoteUI](https://github.com/Dwashi2/DevoteUI)    |   | ✅ |
 
 
 
