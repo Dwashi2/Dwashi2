@@ -215,6 +215,7 @@
 |  170   |  SwiftUI  |  [AfricaUI](https://github.com/Dwashi2/AfricaUI)    |   | ✅ |
 |  171   |  SwiftUI  |  [TouchdownUI](https://github.com/Dwashi2/TouchdownUI)    |   | ✅ |
 |  172   |  SwiftUI  |  [DevoteUI](https://github.com/Dwashi2/DevoteUI)    |   | ✅ |
+|  173   |  SwiftUI - WatchOS  |  [NotesUI](https://github.com/Dwashi2/NotesUI)    |   | ✅ |
 
 
 
