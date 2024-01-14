@@ -218,7 +218,7 @@
 |  173   |  SwiftUI - WatchOS  |  [NotesUI](https://github.com/Dwashi2/NotesUI)    |   | ✅ |
 |  174   |  SwiftUI  |  [DevelopersUI](https://github.com/Dwashi2/DevelopersUI)    |   | ✅ |
 |  175   |  SwiftUI  |  [AvocadosUI](https://github.com/Dwashi2/AvocadosUI)    |   | ✅ |
-|  175   |  SwiftUI  |  [SlotMachineUI](https://github.com/Dwashi2/SlotMachineUI)    |   | ✅ |
+|  176   |  SwiftUI  |  [SlotMachineUI](https://github.com/Dwashi2/SlotMachineUI)    |   | ✅ |
 
 
 
