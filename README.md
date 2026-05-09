@@ -2,18 +2,11 @@
    
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
 
-<div>
- <a href="https://github.com/dwashi2" ></a>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Dwashi2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
- 
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwashi2&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</div>
-
 ---
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="170" width="190" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="max-width:100%;">
+  <img align="center" alt="React" height="130" width="190" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="max-width:100%;">
 </div>
 
 - 👀 Check out some stuff that i did using swift
