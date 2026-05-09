@@ -3,7 +3,7 @@
  <h2 align="center">👋 Hi, I’m @Dwashi2</h2>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="React" height="80" width="190" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="max-width:100%;">
+  <img align="center" alt="React" height="60" width="190" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="max-width:100%;">
 </div>
 
 - 👀 Check out some stuff that i did using swift
